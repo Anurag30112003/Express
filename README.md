@@ -14,7 +14,7 @@
 
 # Adding environment variables
 
-Create .env file and add following variables in it.
+Create .env file and add following environment variables in it.
     
     NODE_ENV , PORT , MONGO_URI , JWT_SECRET
 #
