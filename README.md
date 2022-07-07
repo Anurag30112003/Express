@@ -3,12 +3,14 @@
     cd frontend
     npm i
 
-# Running Backend
+# Running App
     npm run dev
+    
+# Running Backend
+    npm run server
 
 # Running Frontend 
-    cd frontend 
-    npm run start
+    npm run client
 
 # ENV
 
