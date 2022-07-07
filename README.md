@@ -12,7 +12,7 @@
 # Running Frontend 
     npm run client
 
-# ENV
+# Adding environment variables
 
 Create .env file and add following variables in it.
     
